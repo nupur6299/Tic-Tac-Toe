@@ -39,3 +39,21 @@ body {
   border: none;
   color: #fff;
 }
+#msg {
+  color: aqua;
+  font-size: 5vmin;
+}
+#new-button {
+  padding: 1rem;
+  font-size: 1.25rem;
+  background-color: #300723;
+  border-radius: 1rem;
+  border: none;
+  color: #fff;
+}
+.msg-container {
+  height: 30vmin;
+}
+.hide {
+  display: none;
+}
